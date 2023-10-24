@@ -1,4 +1,55 @@
 body {
-	line-height: 1;
-    background-color: aquamarine;
+	background-image: url(https://drupal8-prod.visitcalifornia.com/sites/drupal8-prod.visitcalifornia.com/files/styles/fluid_1200/public/2020-06/VC_Experiences_ReopeningBeaches_RF_1156532604_1280x640.jpg?itok=tPCjquVe);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
 }
+
+#main {
+    width: 800px;
+    opacity: 80%;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+  }
+
+button {
+    background-color: black;
+    color: rgb(255, 93, 242);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+  #main {
+    width: 800px;
+    opacity: 100%;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #container {
+    width: 700px;
+    background-color: black;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  
+  .result-card {
+    width: 600px;
+    background-color: gray;
+    color: black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block; 
+  }
